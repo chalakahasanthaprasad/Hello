@@ -1,0 +1,25 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "Hello Social Media Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalakahasanthaprasad/Hello.git"
+  },
+  "author": "Chalaka Hasantha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chalakahasanthaprasad/Hello/issues"
+  },
+  "homepage": "https://github.com/chalakahasanthaprasad/Hello#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1",
+    "nodemon": "^3.0.1"
+  }
+}
